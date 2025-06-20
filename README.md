@@ -8,12 +8,8 @@ A simple yet functional **Grocery Store Management System** built using **Python
 
 - Add new grocery items 🆕
 - Display all available items 📋
-- Search for an item 🔍
 - Update item details 📝
 - Delete item from inventory ❌
-- Generate bills with item-wise details 🧾
-- Inventory tracking with stock quantity 📦
-- File-based data storage (No external DB required)
 
 ---
 
