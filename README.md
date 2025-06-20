@@ -19,9 +19,10 @@ A simple yet functional **Grocery Store Management System** built using **Python
 
 ---
 
-📫 Connect with Me
-LinkedIn
+📫 Connect with Me :-
 
-GitHub
+LinkedIn :- https://www.linkedin.com/in/manthanterse/
 
-LeetCode
+LeetCode :- https://leetcode.com/u/manthan_terse/
+
+Gmail :- tersemanthan2006@gmail.com
