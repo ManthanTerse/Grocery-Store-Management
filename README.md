@@ -46,10 +46,11 @@ This is a simple **Python-based Grocery Store Management System** created using 
 
 
 
-📫 Connect with Me :-
+## 💼 Connect with Me
 
-LinkedIn :- https://www.linkedin.com/in/manthanterse/
-
-LeetCode :- https://leetcode.com/u/manthan_terse/
-
-Gmail :- tersemanthan2006@gmail.com
+<a href="https://www.linkedin.com/in/manthanterse/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:tersemanthan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
