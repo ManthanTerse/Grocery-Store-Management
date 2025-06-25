@@ -36,14 +36,13 @@ This is a simple **Python-based Grocery Store Management System** created using 
 ## 📷 Screenshot
 
 ![Screenshot 2025-06-19 182439](https://github.com/user-attachments/assets/0b3d2775-9566-4d27-80fb-fb8660fcaf06)
-![Screenshot 2025-06-21 130948](https://github.com/user-attachments/assets/23f0f012-e55a-4644-b6ac-6f9646093c0c)
-![Screenshot 2025-06-21 130948](https://github.com/user-attachments/assets/3ddb17c6-7c1f-48b3-b7a2-2132ed78ad60)
-
 
 ---
 
 ## 🧪 Sample Run (CLI)
 
+![Screenshot 2025-06-21 130948](https://github.com/user-attachments/assets/23f0f012-e55a-4644-b6ac-6f9646093c0c)
+![Screenshot 2025-06-21 130948](https://github.com/user-attachments/assets/3ddb17c6-7c1f-48b3-b7a2-2132ed78ad60)
 
 
 ## 💼 Connect with Me
