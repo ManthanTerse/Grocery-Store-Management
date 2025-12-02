@@ -1,6 +1,6 @@
 # 🛒 Grocery Store Management System
 
-This is a simple **Python-based Grocery Store Management System** created using a **Command-Line Interface (CLI)**. It allows users to manage a dynamic list of grocery items — including adding, displaying, updating, and removing items.
+This is a simple **Python-based Grocery Store Management System** created using a **Command-Line Interface (CLI)**. It allows users to manage a dynamic list of grocery items — including adding, displaying, updating and removing items.
 
 > 📓 This project was developed using **Jupyter Labs** in a `.ipynb` notebook.
 
@@ -18,7 +18,7 @@ This is a simple **Python-based Grocery Store Management System** created using 
 
 ## 🚀 Technologies Used
 
-- 🐍 Python 3  
+- 🐍 Python 
 - 📓 Jupyter Labs (.ipynb)  
 - 🖥️ CLI (Command Line Interface)
 
